@@ -1,11 +1,24 @@
 module.exports = {
-  title: 'WildNode\'s Notes',
+  title: 'Note Book',
   description: 'WildNode\'s note book',
   themeConfig: {
     nav: [
-      { text: '首页', link: '/' },
       { text: 'GitHub', link: 'https://github.com/KidneyFlower/notes' }
     ],
-    sidebar: 'auto'
+    sidebar: [
+      {
+        title: 'HTML & CSS',
+        children: [
+          '/html-and-css/'
+        ]
+      },
+      {
+        title: 'JavaScript',
+        children: [
+          '/javascript/'
+        ]
+      }
+    ],
+    displayAllHeaders: true
   }
 }

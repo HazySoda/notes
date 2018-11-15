@@ -1,7 +1,7 @@
-# Home
+# JavaScript
 
 ::: tip
-This is home page.
+This is index of JavaScript group.
 :::
 
 ## Example H2

@@ -1,7 +1,7 @@
-# Home
+# HTML & CSS
 
 ::: tip
-This is home page.
+This is index of HTML & CSS group.
 :::
 
 ## Example H2
