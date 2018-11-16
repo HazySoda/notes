@@ -7,6 +7,12 @@ module.exports = {
     ],
     sidebar: [
       {
+        title: '开发环境',
+        children: [
+          '/environment/'
+        ]
+      },
+      {
         title: 'HTML & CSS',
         children: [
           '/html-and-css/'
